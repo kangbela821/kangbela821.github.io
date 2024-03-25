@@ -4,7 +4,7 @@ title:  "Creating Compelling Social Media Content: Examples and Strategies"
 author: admin
 tags: [blog]
 categories: [blog]
-image: /assets/images/Creating%20Compelling%20Social%20Media%20Content%20Examples%20and%20Strategies%20.jpeg
+image: "/assets/images/Creating%20Compelling%20Social%20Media%20Content%20Examples%20and%20Strategies%20.jpeg"
 ---
 
 
