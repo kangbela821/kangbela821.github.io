@@ -4,7 +4,7 @@ title:  "Creating Compelling Social Media Content: Examples and Strategies"
 author: admin
 tags: [blog]
 categories: [blog]
-image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAqG4ALeQriTl-P0Utbf6_Q0w14tRrKi6r2jx6ekAbgcSc50E2VAtFmWM5s0qFxnZkOWXKmHLIRC8ibpcHM1jtz4NnCgPs_h8dy5pSCfOkbcmi-aLglUZ5Gw9zBQwTrOD-Il4TdndMYSPOl2Y3Rs9k9MzWufQx2Bk0PIMmn2YrsCL-GPXttiHKjaOovzED/s1600/images%20%2817%29.jpeg"
+image: /assets/images/Creating%20Compelling%20Social%20Media%20Content%20Examples%20and%20Strategies%20.jpeg
 ---
 
 
