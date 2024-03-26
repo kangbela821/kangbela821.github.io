@@ -4,7 +4,7 @@ title:  "Industries where Social Media Marketing Excels in Customer Acquisition"
 author: admin
 tags: [blog]
 categories: [blog]
-image: ""
+image: "assets/images/20240326_155831.jpg"
 ---
 
 
